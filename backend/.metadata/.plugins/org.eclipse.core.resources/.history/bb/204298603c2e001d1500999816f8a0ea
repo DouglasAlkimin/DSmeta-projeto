@@ -1,0 +1,5 @@
+package com.devspring.userdept.entities;
+
+public class Department {
+
+}
